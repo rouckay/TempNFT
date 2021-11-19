@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/TempNFT/static/js/main.d4e1e064.chunk.js",
+    "main.js.map": "/TempNFT/static/js/main.d4e1e064.chunk.js.map",
+    "runtime-main.js": "/TempNFT/static/js/runtime-main.02806f58.js",
+    "runtime-main.js.map": "/TempNFT/static/js/runtime-main.02806f58.js.map",
+    "static/js/2.12c3bc3a.chunk.js": "/TempNFT/static/js/2.12c3bc3a.chunk.js",
+    "static/js/2.12c3bc3a.chunk.js.map": "/TempNFT/static/js/2.12c3bc3a.chunk.js.map",
+    "index.html": "/TempNFT/index.html",
+    "static/js/2.12c3bc3a.chunk.js.LICENSE.txt": "/TempNFT/static/js/2.12c3bc3a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02806f58.js",
+    "static/js/2.12c3bc3a.chunk.js",
+    "static/js/main.d4e1e064.chunk.js"
+  ]
+}
